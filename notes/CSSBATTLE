@@ -1,0 +1,7 @@
+CSS CODE
+
+I can change the border radius shape with pixels, I can also choose which corner by using things like: EX: "border-top-left-radius: px 20".
+
+I can use a body to edit the whole page or area, I can use a div to make a portion of an area that I would like to edit in.
+
+padding creates space within an element, between its content and its border, while margin creates space outside an element, separating it from other elements. Imagine an element as a box: padding is the space inside the box, and margin is the space around the box. 
